@@ -8,7 +8,7 @@ This project presents a complete data analysis workflow, from initial data extra
 
 ![**Tableau Dashboard**](dashboard/Dashboard_CLV.png)
 <div align="center">
-  <b>Tableau Dashboard</b>
+  <b><a href="https://colab.research.google.com/drive/1YaF-dJKxhayXqjTTRK">Tableau Dashboard</a></b>
 </div>
 
 ### **Analysis Workflow** 📊
@@ -29,9 +29,21 @@ A four-stage process was performed to transform raw data into a comprehensive an
 
 The analysis revealed several critical insights that form the basis for strategic recommendations for marketing and sales teams.
 
+![**Average CLV by Cohorts**](dashboard/average_clv_cohort.png)
+<div align="center">
+  <b>Average CLV by Cohorts</b>
+</div>
+<br>
+
 **1. Tablets Drive the Highest Customer Lifetime Value (CLV)** 📱
 * **Finding:** While desktop and mobile users represent the majority of customers and revenue, tablet users have a significantly higher average CLV of *$17.09*. This identifies tablet users as a high-value customer segment.
 * **Recommendation:** Investigate the specific user experience and behavior of tablet customers. Consider launching a targeted campaign or optimizing the interface for tablet users to capitalize on this valuable segment.
+
+![**Weekly Cohort Purchase Activity**](dashboard/cohort_purchase_activity.png)
+<div align="center">
+  <b>Weekly Cohort Purchase Activity</b>
+</div>
+<br>
 
 **2. Newer Cohorts Show Superior Conversion and Value** 🚀
 * **Finding:** The most recent cohorts (2020-12-06 and 2020-12-13) exhibit a rapid conversion rate and high initial value. The *2020-12-13* cohort achieved a *100% conversion rate* within its first week with the average CLV of *$18.13*, significantly exceeding the overall average. These two cohorts also display a notably higher *Average Revenue per User (ARPU)* in their early weeks compared to all previous cohorts. This indicates a successful strategy in user acquisition or marketing campaing in the recent period.
@@ -40,6 +52,12 @@ The analysis revealed several critical insights that form the basis for strategi
 **3. Revenue is Highly Concentrated in Top 4 Countries** 🌍
 * **Finding:** The United States, India, Canada, and the United Kingdom are the top four countries by revenue and user count. Together they account for *68.3% of total revenue*. The United States is the primary market, generating over *$16,000* in revenue.
 * **Recommendation:** Focus sales and marketing efforts on these core markets, as they are the main revenue drivers. Simultaneously, explore opportunities for growth in other high-performing regions by creating localized promotions or content to increase their user base and revenue.
+
+![**Purchase Trends by Cohorts**](dashboard/purchase_cohorts.png)
+<div align="center">
+  <b>Purchase Trends by Cohorts</b>
+</div>
+<br>
 
 **4. Revenue Declines Post-Purchase** 📉
 * **Finding:** The "Weekly Average Revenue Per User" analysis shows a consistent decline in user value after the initial purchase. While the average order value (AOV) remains stable, the lack of repeat purchases is a challenge for long-term growth.
