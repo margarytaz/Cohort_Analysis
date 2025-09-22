@@ -6,6 +6,11 @@ This project presents a complete data analysis workflow, from initial data extra
 
 ---
 
+![**Tableau Dashboard**](dashboard/Dashboard_CLV.png)
+<div align="center">
+  <b>Tableau Dashboard</b>
+</div>
+
 ### **Analysis Workflow** 📊
 
 A four-stage process was performed to transform raw data into a comprehensive analysis.
@@ -55,7 +60,7 @@ The project was conducted using a combination of tools, including SQL, Python, a
 ### **How to Use This Repository**
 
 This repository is structured to allow for a full review of the project's workflow. Here's a guide to navigating the files:
-* **sql/:** Contains the SQL script used to query the dataset from BigQuery. You can review the initial data extraction and cleaning process here.
-* **notebook/:** The Google Colab notebook (.ipynb file) with the Python code for data cleaning and descriptive statistics. You can run this notebook directly in your browser by clicking the [Colab link](https://colab.research.google.com/drive/1YaF-dJKxhayXqjTTRKofV1kw8sV825IP?usp=sharing). **Note:** you need to have Google account and upload *clv_analysis.csv* file to your Drive. Then you need to update the second code cell in the notebook to define the path to this file in your Drive.  
-* **data/:** This folder contains the cleaned *clv_analysis.csv* dataset used in the analysis.
-* **tableau/:** The Tableau workbook is developed in Tableau Public and can be accessed via this link.
+* **sql/:** Contains the SQL script used to query the dataset from BigQuery. You can review the data extraction and cleaning query [here](sql/clv_analysis.sql).
+* **notebook/:** The [Google Colab notebook .ipynb file](notebook/CLV_Analysis.ipynb) with the Python code for data cleaning and descriptive statistics. You can run this notebook directly in your browser by clicking the [Colab link](https://colab.research.google.com/drive/1YaF-dJKxhayXqjTTRKofV1kw8sV825IP?usp=sharing). **Note:** you need to have Google account and upload *clv_analysis.csv* file to your Drive. Then you need to update the second code cell in the notebook to define the path to this file in your Drive.  
+* **data/:** This folder contains the cleaned [clv_analysis.csv](data/clv_analysis.csv) dataset used in the analysis.
+* **tableau/:** The Tableau workbook is developed in Tableau Public and can be accessed via this [link](https://public.tableau.com/views/workfile_17580193858470/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
