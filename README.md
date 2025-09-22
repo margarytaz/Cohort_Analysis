@@ -29,25 +29,25 @@ A four-stage process was performed to transform raw data into a comprehensive an
 
 The analysis revealed several critical insights that form the basis for strategic recommendations for marketing and sales teams.
 
+**1. Tablets Drive the Highest Customer Lifetime Value (CLV)** 📱
+* **Finding:** While desktop and mobile users represent the majority of customers and revenue, tablet users have a significantly higher average CLV of *$17.09*. This identifies tablet users as a high-value customer segment.
+* **Recommendation:** Investigate the specific user experience and behavior of tablet customers. Consider launching a targeted campaign or optimizing the interface for tablet users to capitalize on this valuable segment.
+
 ![**Average CLV by Cohorts**](dashboard/average_clv_cohort.png)
 <div align="center">
   <b>Average CLV by Cohorts</b>
 </div>
 <br>
 
-**1. Tablets Drive the Highest Customer Lifetime Value (CLV)** 📱
-* **Finding:** While desktop and mobile users represent the majority of customers and revenue, tablet users have a significantly higher average CLV of *$17.09*. This identifies tablet users as a high-value customer segment.
-* **Recommendation:** Investigate the specific user experience and behavior of tablet customers. Consider launching a targeted campaign or optimizing the interface for tablet users to capitalize on this valuable segment.
+**2. Newer Cohorts Show Superior Conversion and Value** 🚀
+* **Finding:** The most recent cohorts (2020-12-06 and 2020-12-13) exhibit a rapid conversion rate and high initial value. The *2020-12-13* cohort achieved a *100% conversion rate* within its first week with the average CLV of *$18.13*, significantly exceeding the overall average. These two cohorts also display a notably higher *Average Revenue per User (ARPU)* in their early weeks compared to all previous cohorts. This indicates a successful strategy in user acquisition or marketing campaing in the recent period.
+* **Recommendation:** Conduct a deeper analysis of the acquisition channels and strategies used for these high-performing cohorts. The goal is to identify and replicate these successful methods to boost conversion speed and value for future user groups.
 
 ![**Weekly Cohort Purchase Activity**](dashboard/cohort_purchase_activity.png)
 <div align="center">
   <b>Weekly Cohort Purchase Activity</b>
 </div>
 <br>
-
-**2. Newer Cohorts Show Superior Conversion and Value** 🚀
-* **Finding:** The most recent cohorts (2020-12-06 and 2020-12-13) exhibit a rapid conversion rate and high initial value. The *2020-12-13* cohort achieved a *100% conversion rate* within its first week with the average CLV of *$18.13*, significantly exceeding the overall average. These two cohorts also display a notably higher *Average Revenue per User (ARPU)* in their early weeks compared to all previous cohorts. This indicates a successful strategy in user acquisition or marketing campaing in the recent period.
-* **Recommendation:** Conduct a deeper analysis of the acquisition channels and strategies used for these high-performing cohorts. The goal is to identify and replicate these successful methods to boost conversion speed and value for future user groups.
 
 **3. Revenue is Highly Concentrated in Top 4 Countries** 🌍
 * **Finding:** The United States, India, Canada, and the United Kingdom are the top four countries by revenue and user count. Together they account for *68.3% of total revenue*. The United States is the primary market, generating over *$16,000* in revenue.
