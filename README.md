@@ -8,7 +8,7 @@ This project presents a complete data analysis workflow, from initial data extra
 
 ![**Tableau Dashboard**](dashboard/Dashboard_CLV.png)
 <div align="center">
-  <b><a href="https://colab.research.google.com/drive/1YaF-dJKxhayXqjTTRK">Tableau Dashboard</a></b>
+  <b><a href="https://public.tableau.com/views/workfile_17580193858470/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link">Tableau Dashboard</a></b>
 </div>
 
 ### **Analysis Workflow** 📊
